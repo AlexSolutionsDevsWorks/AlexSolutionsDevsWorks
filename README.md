@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil! .Sou um profissional apaixonado por aprimorar a experi�
 
 ---
 
-## 💼 O Que Eu Posso Oferecer (Serviços B2B/PJ e Perfil CLT)
+## 💼 O Que Eu Posso Oferecer
 
 **☁️ Cloud & DevOps:** Monitoramento e acompanhamento de pipelines de dados, gestão de acessos e permissões seguindo Governança de Dados. Execução de rotinas preventivas para garantir a disponibilidade de ambientes.
 **📊 Operações de Dados (DataOps):** Atuação direta com ferramentas robustas como Databricks, SQL e integração de relatórios via Power BI.
